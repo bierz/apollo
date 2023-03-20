@@ -1,0 +1,2 @@
+folder boot
+tu wrzucamy klasy konfiguracyjne aplikacji - na tym poziomie dotyczących całej aplikacji raczej a niżeli poszczegulnych serwisów

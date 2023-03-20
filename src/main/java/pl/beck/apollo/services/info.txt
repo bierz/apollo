@@ -1,0 +1,2 @@
+Services - tu będzie mięso naszej logiki biznesowej
+Po to mamy osobne foldery config z konfiguracją, shared , gateway

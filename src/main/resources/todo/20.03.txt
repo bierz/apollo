@@ -1,0 +1,24 @@
+Do poczytania
+
+java scopes: public, protected, private, default (package private)
+
+project lombok (adnotacje @Value, @Data, @Getter, @Setter @AllArgsConstructor i inne, redukujące bolerplate code )
+
+- co to java interface. poczytaj dlaczego należy przekazywać interfejsy a nie implemetacje interfejsów
+    (np: interface - List - implemetacja: ArrayList)
+
+- co to jest enum
+
+Struktury danych
+Lista : ArrayList vs LinkedList (czym się różnią, która kiedy jest lepsza)
+Co to jest tablica w javie (array) i czym się różni od listy
+Co to jest Set (HashSet), co to jest Map (HashMap)
+
+Spring
+co to: @Bean oraz co to @Configuration co to DependencyInjection
+nie jest to temat na 5 minut, ale zrób pierwszy krok, jak się spotkamy to o tym pogadamy
+
+UUID co to jest (losowy identyfikator, nr AE6D00DB-C475-4EB1-87A9-0001278A0C0A)
+
+wyrażenia regularne w javie (np tu: https://www.vogella.com/tutorials/JavaRegularExpressions/article.html)
+

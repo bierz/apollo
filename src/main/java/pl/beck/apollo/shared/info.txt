@@ -1,0 +1,3 @@
+Info często też nazywane Shared
+tu wrzucamy serwisy i obiekty nie będące stricte związane z naszą logiką biznesową, ale z których nasze serwisy
+będą musiały korzystać.

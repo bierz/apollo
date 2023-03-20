@@ -1,0 +1,8 @@
+gateway, zwany czasem web, controlers etc
+jest to miejsce gdzie definiujemy nasze API - zakładając że nasz aplikacja takowe będzie wystawiała (bo przecież nie musi)
+
+pamiętaj
+@Controller adnotacja metod zwracających template html
+
+dużo częściej będziesz używała
+@RestController, gdzie zamiast widoku zwracać będziesz dane json / xml
