@@ -10,7 +10,7 @@ public class TextConverterImplTest {
 
 
     @Test
-    public void should_bla() {
+    public void should_bla() {  // TODO  change this stupid name !!!
         // given
         String text = "   aaaa    ";
 
